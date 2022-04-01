@@ -4,7 +4,7 @@ Project repository for Software Engineering Course, CEN 3, Epoka University, Aca
 
 GROUPS - A
 
-* Group 9 - Of Courses (https://github.com/eponari/OfCourses)
+* Group 9 - OfCourses (https://github.com/eponari/OfCourses)
 * Group 10 - https://github.com/kevinmamaj/Group10
 
 
