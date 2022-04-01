@@ -13,6 +13,7 @@ GROUPS - B
 * Group 2 - https://github.com/jonel18/SE_project
 * Group 3 - https://github.com/hertabrari/Group-3
 * Group 4 - https://github.com/KevinHoxhalli/Group4
+* Group 5 - https://github.com/afilo/group5
 * Group 6 - https://github.com/arbdoescode/Group6-Project
 * Group 7 - https://github.com/jallushi17/Group-7
 * Group 8 - Goal-Diggers (https://github.com/helgaprifti/Goal-Diggers)
