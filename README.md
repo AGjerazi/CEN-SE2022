@@ -8,6 +8,7 @@ GROUPS - A
 * Group 3 - Bit7 - Professional Practice Management System for Universities (https://github.com/xhoel-bano/Professional-Practice-Management-System)
 * Group 4 - Blog (https://github.com/dmulaj19/Blog)
 * Group 5 - https://github.com/hndregjoni/codejudger
+* Group 6 - https://github.com/kkostdhima/CEN-SE
 * Group 7 - Travel Agencies Management System (https://github.com/meginako/TravelAgency)
 * Group 8 - https://github.com/EloiSherifi/SoftwareEngineeringProject
 * Group 9 - OfCourses (https://github.com/eponari/OfCourses)
